@@ -1,0 +1,1 @@
+ScrapSercotec es una herramienta de extracción de datos diseñada para obtener información sobre las convocatorias actuales y próximas del sitio web sercotec.cl. Esta herramienta automatiza el proceso de recopilación de datos, permitiendo a los usuarios guardar la información en un archivo Excel con enlaces clicables para facilitar su revisión y seguimiento.
